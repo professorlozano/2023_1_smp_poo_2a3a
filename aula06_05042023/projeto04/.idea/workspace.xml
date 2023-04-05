@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43f0591d-bbf2-4291-8857-3068b318c641" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NgrJDGfgTa8GH4czHUHcjbM4qa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UsaClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal.UsaClasses" />
+      <module name="projeto04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UsaClasses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43f0591d-bbf2-4291-8857-3068b318c641" name="Default Changelist" comment="" />
+      <created>1680096491240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680096491240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1680096621193">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1680096621193" />
+    <state width="1804" height="399" key="GridCell.Tab.0.bottom" timestamp="1680097573147">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1680097573147" />
+    <state width="1804" height="399" key="GridCell.Tab.0.center" timestamp="1680097573146">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1680097573146" />
+    <state width="1804" height="399" key="GridCell.Tab.0.left" timestamp="1680097573145">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1680097573145" />
+    <state width="1804" height="399" key="GridCell.Tab.0.right" timestamp="1680097573146">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="399" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1680097573146" />
+  </component>
+</project>
